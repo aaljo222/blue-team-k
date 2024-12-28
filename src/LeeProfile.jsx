@@ -17,6 +17,7 @@ export default function LeeProfile() {
         <p>📞 010-7547-3869</p>
         <div className="profile-details">
           <h3>PROFILE</h3>
+          <a href="http://aicompany.co.kr">개인 프로필 </a>
           <p>실무 경력 23년과 교육 경력 7년을 동시에 겸비한 전문 개발자 및 교육자</p>
           <p>사랑하는 두 딸, 아내와 소소한 행복을 꿈꾸는 평범한 남편이자 아빠</p>
           <p>수학, 알고리즘, Hardware, Software, 인공지능 융합 전문 개발자</p>
@@ -25,6 +26,24 @@ export default function LeeProfile() {
       <div className="right-section">
         <h3>경력</h3>
         <div className="timeline">
+          <div className="timeline-item">
+            <h4>TV 화질 개선 및 영상 신호처리</h4>
+            <p>1995/01/10 - 2005/06/10 | 삼성전자</p>
+            <p>
+              삼성전자 DMC 연구소에서 개발한 chip을 application engineer의 leader로서 삼성전자 TV에 적용하여 생산성 향상
+            </p>
+          </div>
+          <div className="timeline-item">
+            <h4>기상청 관측 장비 개발</h4>
+            <p>2005/10 - 2008/09 | 진양공업주식회사</p>
+            <p>
+              기상청 협력 업체로서 센서데이터를 취합하여 통합 관리
+              <br />
+              라디오 존데 개발
+              <br />
+              웹프로그래밍
+            </p>
+          </div>
           <div className="timeline-item">
             <h4>신기술 특허 분석 및 특허 전략 보고</h4>
             <p>2008/11 - 2013/06 | 미래특허</p>
