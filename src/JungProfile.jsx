@@ -6,7 +6,7 @@ export default function JungProfile() {
     <div className="profile-container">
       <div className="left-section">
         <div className="profile-image">
-          <img src="/assets/jung.png" alt="정순원" />
+          <img src="/assets/jung.PNG" alt="정순원" />
         </div>
         <h2>정순원</h2>
         <h4>Global Marketing</h4>

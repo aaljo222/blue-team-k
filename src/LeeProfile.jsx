@@ -6,7 +6,7 @@ export default function LeeProfile() {
     <div className="profile-container">
       <div className="left-section">
         <div className="profile-image">
-          <img src="/assets/lee.png" alt="이재오" />
+          <img src="/assets/lee.PNG" alt="이재오" />
         </div>
         <h2>이재오</h2>
         <h4>CTO & 인공지능, 빅데이터 전문가</h4>

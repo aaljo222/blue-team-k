@@ -6,7 +6,7 @@ export default function HongProfile() {
     <div className="profile-container">
       <div className="left-section">
         <div className="profile-image">
-          <img src="/assets/hong.png" alt="홍태오" />
+          <img src="/assets/hong.PNG" alt="홍태오" />
         </div>
         <h2>홍태오</h2>
         <h4>CEO</h4>
