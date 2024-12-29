@@ -25,7 +25,8 @@ export default function HongProfile() {
       <div className="right-section">
         <h3>경력</h3>
         <div className="timeline">
-          {/* Timeline items here */}
+          <img src="/assets/hong_k.PNG"/>
+          <a href="https://www.blueteamk.com/"> Blue Team Korea 에 가세요 </a>
         </div>
       </div>
     </div>

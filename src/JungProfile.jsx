@@ -25,7 +25,10 @@ export default function JungProfile() {
       <div className="right-section">
         <h3>경력</h3>
         <div className="timeline">
-          {/* Timeline items here */}
+          <img src="/assets/jung_k.PNG"/>
+          
+          <a href="https://snskoreatech.com/">  순원이 집에  가세요 </a>
+
         </div>
       </div>
     </div>

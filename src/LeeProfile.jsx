@@ -17,7 +17,7 @@ export default function LeeProfile() {
         <p>📞 010-7547-3869</p>
         <div className="profile-details">
           <h3>PROFILE</h3>
-          <a href="http://aicompany.co.kr">개인 프로필 </a>
+          <a href="http://aicompany.co.kr"> 이재오 개인 프로필 보러가기  </a>
           <p>실무 경력 23년과 교육 경력 7년을 동시에 겸비한 전문 개발자 및 교육자</p>
           <p>사랑하는 두 딸, 아내와 소소한 행복을 꿈꾸는 평범한 남편이자 아빠</p>
           <p>수학, 알고리즘, Hardware, Software, 인공지능 융합 전문 개발자</p>
