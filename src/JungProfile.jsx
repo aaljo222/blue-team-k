@@ -12,10 +12,12 @@ export default function JungProfile() {
         <h4>Global Marketing</h4>
         <p>서울시 강남구 테헤란로 152</p>
         <p>
-          📧 <a href="mailto:jsw@marketing.com">jsw@marketing.com</a>
+          📧 <a href="mailto: jsw210@gmail.com">jsw210@gmail.com</a>
         </p>
-        <p>📞 010-9876-5432</p>
+       
+        <p>📞 010-3309-0843 </p>
         <div className="profile-details">
+        <a href="https://snskoreatech.com/">  순원이 집에  가세요 </a>
           <h3>PROFILE</h3>
           <p>마케팅 전문가로서 15년 이상의 경험</p>
           <p>국제 마케팅 캠페인을 성공적으로 이끈 경험</p>
@@ -27,7 +29,7 @@ export default function JungProfile() {
         <div className="timeline">
           <img src="/assets/jung_k.PNG"/>
           
-          <a href="https://snskoreatech.com/">  순원이 집에  가세요 </a>
+         
 
         </div>
       </div>

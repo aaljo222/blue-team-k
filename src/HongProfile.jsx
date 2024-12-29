@@ -12,10 +12,12 @@ export default function HongProfile() {
         <h4>CEO</h4>
         <p>서울시 용산구 한남대로 45길 12</p>
         <p>
-          📧 <a href="mailto:hongtaeo@company.com">hongtaeo@company.com</a>
+          📧 <a href="mailto:contact@blueteamk.com">contact@blueteamk.com</a>
         </p>
         <p>📞 010-1234-5678</p>
+      
         <div className="profile-details">
+        <a href="https://www.blueteamk.com/"> Blue Team Korea 에 가세요 </a>
           <h3>PROFILE</h3>
           <p>성공적인 기업 경영자로서 혁신적인 리더십을 발휘</p>
           <p>팀 관리와 사업 전략 개발 전문가</p>
@@ -26,7 +28,7 @@ export default function HongProfile() {
         <h3>경력</h3>
         <div className="timeline">
           <img src="/assets/hong_k.PNG"/>
-          <a href="https://www.blueteamk.com/"> Blue Team Korea 에 가세요 </a>
+         
         </div>
       </div>
     </div>
